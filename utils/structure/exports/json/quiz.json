@@ -1,0 +1,23 @@
+[
+	{
+		"question": "What is the modt popular code language?",
+		"answers": ["py", "python"]
+	},
+	{
+		"question": "How many letters are there in the alphabet?",
+		"answers": ["26", "twenty-six", "twenty six", "twentysix"]
+	},
+  {
+		"question": "Which is the country with the biggest population in Europe?",
+		"answers": ["russia", "Russia"]
+	},
+  {
+		"question": "What's the highest mountain in the world?",
+		"answers": ["mt everest", "MT everest", "Mt everest", "Mount Everest", "Mount everest", "mount everest", "everest", "Everest" ]
+	},
+  {
+		"question": "Which state is famous for Hollywood?",
+		"answers": ["California", "california" ]
+	}
+  
+]
